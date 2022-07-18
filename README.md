@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mkhairulamri
 - 👀 I’m interested in Web Fullstack Development
-- 🌱 I’m currently learning At a Collage in Indonesia
+- 🌱 I’m currently Last Year Student in a Universiry in Indoneia
 - 📫 How to reach me can find me in email: mkhairulamri63@gmail.com
 
 <!---
