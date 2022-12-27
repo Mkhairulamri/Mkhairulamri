@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mkhairulamri
 - 👀 I’m interested in Web Fullstack Development
-- 🌱 I’m currently Last Year Student in a University in Indoneia
+- 🌱 I’m as a Backend Enggineer in a Company in Central Of Jakarta
 - 📫 How to reach me can find me in email: mkhairulamri63@gmail.com or LinkedIn : www.linkedin.com/in/mkhairulamri/
 
 <!---
