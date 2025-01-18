@@ -1,8 +1,8 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mulzahrian)](https://github.com/anuraghazra/github-readme-stats)
  -->
- ![Mkhairulamri GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkhairulamri&show_icons=true&theme=radical)
+<!-- ![Mkhairulamri GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkhairulamri&show_icons=true&theme=radical)
  
-<!--  ### What Language I Use
+  ### What Language I Use
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&langs_count=8)]) -->
 
 
